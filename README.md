@@ -22,7 +22,7 @@ git rm -r --cached .
 git add .
 git commit -m "Fix: fix untracked files"
 ```
-
+참고자료 : https://nesoy.github.io/articles/2017-01/Git-Ignore 처럼 작성하기... 깔끔하게
 ## 2020-04-22
 서버개발캠프 회고록(RDBMS vs NOSQL 기술 선택) 기고
 
